@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="title">
+  <title>HR Icon</title>
+
+  <!-- Background Circle -->
+  <circle cx="200" cy="200" r="180" fill="#dc3545" />
+
+  <!-- People Icon -->
+  <circle cx="160" cy="180" r="30" fill="#ffffff" />
+  <circle cx="240" cy="180" r="30" fill="#ffffff" />
+  <rect x="130" y="210" width="140" height="60" fill="#ffffff" rx="10" />
+
+  <!-- Title Text -->
+  <text x="200" y="350" font-family="Arial, sans-serif" font-size="24" fill="#ffffff" text-anchor="middle">HR</text>
+</svg>
