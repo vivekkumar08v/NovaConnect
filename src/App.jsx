@@ -19,7 +19,7 @@ const App = () => {
       <div className='mx-4 sm:mx-[10%] text-white'>
       <ToastContainer/>
       <Navbar/>
-      <Routes baseline="">
+      <Routes >
         <Route path='/'element={<Home />} />
         <Route path='/consultants'element={<Consultants />} />
         <Route path='/consultants/:speciality'element={<Consultants />} />
